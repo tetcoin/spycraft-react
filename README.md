@@ -1,4 +1,4 @@
-oo7-react
+spycraft-react
 =========
 
 A small library to provide integration between React and `Bond`s.
